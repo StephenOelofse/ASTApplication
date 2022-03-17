@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "name": "Necklace",
+        "manufacturer": "Dior",
+        "price": 5,
+        "size": "25",
+        "imageUrl": "https://media.istockphoto.com/photos/gold-locket-picture-id173548581"
+      },
+      {
+        "name": "Shirt",
+        "manufacturer": "Nike",
+        "price": 50,
+        "size": "XS",
+        "imageUrl": "https://media.istockphoto.com/photos/mens-black-blank-tshirt-templatefrom-two-sides-natural-shape-on-for-picture-id1151955707"
+      },
+      {
+        "name": "Pants",
+        "manufacturer": "Adidas",
+        "price": 30,
+        "size": "M",
+        "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3387&q=80"
+
+      },
+      {
+        "name": "Socks",
+        "manufacturer": "Kmart",
+        "price": 5,
+        "size": "M",
+        "imageUrl": "https://images.unsplash.com/photo-1564379976409-79bd0786fff1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+      },
+      {
+        "name": "Hat",
+        "manufacturer": "Nike",
+        "price": 25,
+        "size": "XS",
+        "imageUrl": "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+      }
+    ]
+  }
